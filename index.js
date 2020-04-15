@@ -14,7 +14,7 @@ class Name {
   }
 }
 
-class Scooter {
+class PickupLocation {
   constructor(year, color, model){
     this.year = year
     this.color = color

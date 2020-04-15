@@ -16,7 +16,7 @@ class Name {
 
 class PickupLocation {
   constructor(address, city){
-    this.year = year
+    this.address = adress
     this.color = color
     this.model = model
   }

@@ -6,7 +6,7 @@ class Scooter {
   }
 }
 
-class Name {
+class Driver {
   constructor(name, age, experience){
     this.name = name
     this.age = age

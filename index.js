@@ -15,7 +15,7 @@ class Name {
 }
 
 class PickupLocation {
-  constructor(year, color, model){
+  constructor(address, city){
     this.year = year
     this.color = color
     this.model = model
